@@ -138,8 +138,7 @@ This is Firestore Security Rules blocking reads/writes from the client. Fix by e
 “The query requires an index”
 Create the composite index from the provided Firebase Console link, wait until it’s built, retry.
 
-License
-Private.
+License  Private.
 
 Team
 B.H.Dinithi Wijayasinghe - Team Lead, ML Engineer(handbook-based chatbot, GPA Advisor, AI-based Feedback report generation), Frontend(Home,SignUp,Login, Feedback report page), Database(Firebase, Firestore, Authentication, Pincecone), Testing and Integration
