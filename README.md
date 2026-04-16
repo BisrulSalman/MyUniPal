@@ -141,9 +141,9 @@ Create the composite index from the provided Firebase Console link, wait until i
 License  Private.
 
 Team
-B.H.Dinithi Wijayasinghe - Team Lead, ML Engineer(handbook-based chatbot, GPA Advisor, AI-based Feedback report generation), Frontend(Home,SignUp,Login, Feedback report page), Database(Firebase, Firestore, Authentication, Pincecone), Testing and Integration
-R.Yeheni Wijesinghe - Frontend (GPA Calculator), ML Research, Documentation & reports
-V.Manimegalai - Backend
-K.Sathursika - Database documentation(ER,UseCase etc)
-S.B.Salman - Frontend (Admin Dashboard)
+B.H.Dinithi Wijayasinghe - Team Lead, ML Engineer(handbook-based chatbot, GPA Advisor, AI-based Feedback report generation), Frontend(Home,SignUp,Login, Feedback report page), Database(Firebase, Firestore, Authentication, Pincecone), Testing and Integration,
+R.Yeheni Wijesinghe - Frontend (GPA Calculator), ML Research, Documentation & reports,
+V.Manimegalai - Backend,
+K.Sathursika - Database documentation(ER,UseCase etc),
+S.B.Salman - Frontend (Admin Dashboard),
 M.L.F.Ishqa - Frontend (Community Dashboard)
